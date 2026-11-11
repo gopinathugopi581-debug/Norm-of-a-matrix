@@ -48,7 +48,9 @@ print("{:.2f}".format(ans))
 ## Output:
 ### 1-Norm of a Matrix
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/5d45dabd-8a3a-4277-94a2-97552e7b3a6c" />
+
+<img width="1271" height="206" alt="image" src="https://github.com/user-attachments/assets/ec1968f1-dcbb-42f9-830a-4d95647df20f" />
+
 ### 2-Norm of a Matrix
 
 <img width="1285" height="257" alt="image" src="https://github.com/user-attachments/assets/88a595ff-1890-4809-95cb-e8b476d82568" />
